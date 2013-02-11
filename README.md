@@ -1,7 +1,7 @@
 Windows-Phone-App---Weekly-Planner
 ==================================
 
-I built this while learning Windows Phone development. It is a simple app provides a very quick way to plan out your week. It allows you to navigate through the week days and add/edit/delete events. It has a very responsive panaromic user interface.
+I built this in C# while learning Windows Phone development. It is a simple app provides a very quick way to plan out your week. It allows you to navigate through the week days and add/edit/delete events. It has a very responsive panaromic user interface.
 
 1. Open app
 2. Tap on any time slot
