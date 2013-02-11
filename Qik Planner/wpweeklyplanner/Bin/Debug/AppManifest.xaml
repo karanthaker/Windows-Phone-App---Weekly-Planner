@@ -1,0 +1,16 @@
+﻿<!--
+ Copyright © 2011 Nokia Corporation. All rights reserved.
+ Nokia and Nokia Connecting People are registered trademarks of Nokia Corporation. 
+ Other product and company names mentioned herein may be trademarks
+ or trade names of their respective owners. 
+ See LICENSE.TXT for license information.
+-->
+<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="wpweeklyplanner" EntryPointType="wpweeklyplanner.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="wpweeklyplanner" Source="wpweeklyplanner.dll" />
+    <AssemblyPart x:Name="Microsoft.Expression.Interactions" Source="Microsoft.Expression.Interactions.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls" Source="Microsoft.Phone.Controls.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls.Toolkit" Source="Microsoft.Phone.Controls.Toolkit.dll" />
+    <AssemblyPart x:Name="System.Windows.Interactivity" Source="System.Windows.Interactivity.dll" />
+  </Deployment.Parts>
+</Deployment>
